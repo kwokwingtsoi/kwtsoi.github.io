@@ -1,0 +1,2 @@
+# Keep local paper copies in files/ without publishing them automatically.
+files/*.pdf
